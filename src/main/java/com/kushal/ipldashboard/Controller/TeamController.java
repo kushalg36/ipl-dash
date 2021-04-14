@@ -3,6 +3,11 @@ package com.kushal.ipldashboard.Controller;
 import com.kushal.ipldashboard.Repository.MatchRepository;
 import com.kushal.ipldashboard.Repository.TeamRepository;
 import com.kushal.ipldashboard.model.Team;
+<<<<<<< HEAD
+=======
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
+>>>>>>> frontend
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
